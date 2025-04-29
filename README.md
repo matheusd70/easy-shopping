@@ -9,4 +9,8 @@
   <br>
   - CSS
 
+<h2>Versão Desktop:</h2>
 <img src="https://github.com/matheusd70/easy-shopping/blob/master/images/Captura%20de%20tela%20-%20projeto%20responsivo.png?raw=true"/>
+
+<h2>Versão Mobile:</h2
+<img src="https://github.com/matheusd70/easy-shopping/blob/master/images/Captura%20de%20tela%20-%20celular.png?raw=true"/>
