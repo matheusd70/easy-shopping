@@ -5,8 +5,8 @@
 
 <h2>Tecnologias usadas:</h2>
 <br>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <h2>Versão Desktop:</h2>
 <img src="https://github.com/matheusd70/easy-shopping/blob/master/images/Captura%20de%20tela%20-%20projeto%20responsivo.png?raw=true"/>
